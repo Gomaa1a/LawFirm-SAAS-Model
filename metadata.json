@@ -1,0 +1,5 @@
+{
+  "name": "Seekers Legal Automation Platform",
+  "description": "A Phase 1 MVP SaaS application for Omani legal firms featuring document intake, OCR management, legal chat assistance, and basic workflow automation.",
+  "requestFramePermissions": []
+}
